@@ -15,7 +15,7 @@
 - :technologist: Passionate about programing and IT.
 - :computer: 2 Years of experience working as an IT Security Specialist.
 - :student: I’m currently learning `Active Directory complex exploitation` and `Advanced OSINT techniques`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [My LinkedIn](www.linkedin.com/in/k1ddo3).
+- :thinking: I’m currently open for a new `job opportunity`, this is [My LinkedIn](https://www.linkedin.com/in/k1ddo3/).
 - :boom: You can visit [MY WEBSITE](https://www.ssanti.me).
 <br>
 
